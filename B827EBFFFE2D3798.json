@@ -13,7 +13,7 @@
     "ref_longitude": -1.3939,
     "ref_altitude": 60,
     "contact_email": "sjj698@zepler.org",
-    "description": "Lanchester V3"
+    "description": "Lanchester V3",
     "fake_gps": true,
     "forward_crc_valid": true,
     "forward_crc_error": false,
