@@ -9,10 +9,15 @@
                 "serv_enabled": true
             }
         ],
-        "ref_latitude": 0,
-        "ref_longitude": 0,
-        "ref_altitude": 0,
-        "contact_email": "",
-        "description": "ttn-ic880a"
+        "ref_latitude": -1.40446320,
+        "ref_longitude": 50.93681477,
+        "ref_altitude": 85,
+        "contact_email": "sjj698@zepler.org",
+        "description": "Boldrewood",
+        "fake_gps": true,
+        "forward_crc_valid": true,
+        "forward_crc_error": false,
+        "forward_crc_disabled": true
+
     }
 }
