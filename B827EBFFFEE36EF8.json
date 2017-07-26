@@ -9,8 +9,8 @@
                 "serv_enabled": true
             }
         ],
-        "ref_latitude": -1.40446320,
-        "ref_longitude": 50.93681477,
+        "ref_latitude": 50.93681477,
+        "ref_longitude": -1.40446320,
         "ref_altitude": 85,
         "contact_email": "sjj698@zepler.org",
         "description": "Boldrewood",
