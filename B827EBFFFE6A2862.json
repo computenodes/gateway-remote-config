@@ -9,15 +9,12 @@
             "serv_enabled": true
         }
     ],
-    "ref_latitude": 50.9354,
-    "ref_longitude": -1.3939,
-    "ref_altitude": 60,
+    "gps_tty_path": "/dev/ttyUSB0",
     "contact_email": "p.j.basford@soton.ac.uk",
     "description": "GPS-test-node",
     "fake_gps": false,
     "forward_crc_valid": true,
     "forward_crc_error": false,
     "forward_crc_disabled": true
-
     }
 }
