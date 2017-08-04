@@ -10,8 +10,8 @@
             },
             {
                 "server_address": "debian-alastair-ttn.clients.soton.ac.uk",
-                "serv_port_up": 1700,
-                "serv_port_down": 1700,
+                "serv_port_up": 1883,
+                "serv_port_down": 1883,
                 "serv_enabled": true
             }
         ],
