@@ -1,12 +1,20 @@
 {
     "gateway_conf": {
         "gateway_ID": "B827EBFFFEB05D2B",
-        "servers": [{
-            "server_address": "router.eu.thethings.network",
-            "serv_port_up": 1700,
-            "serv_port_down": 1700,
-            "serv_enabled": true
-        }],
+        "servers": [
+            {
+                "server_address": "router.eu.thethings.network",
+                "serv_port_up": 1700,
+                "serv_port_down": 1700,
+                "serv_enabled": true
+            },
+            {
+                "server_address": "debian-alastair-ttn.clients.soton.ac.uk",
+                "serv_port_up": 1700,
+                "serv_port_down": 1700,
+                "serv_enabled": true
+            }
+        ],
         "ref_latitude": 50.93682181,
         "ref_longitude": -1.40607252,
         "ref_altitude": 40,
