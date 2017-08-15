@@ -1,0 +1,19 @@
+{
+    "gateway_conf": {
+        "gateway_ID": "B827EBFFFE6312DB",
+        "servers": [{
+            "server_address": "router.eu.thethings.network",
+            "serv_port_up": 1700,
+            "serv_port_down": 1700,
+            "serv_enabled": true
+        }],
+        "ref_latitude": 50.93682181,
+        "ref_longitude": -1.40607252,
+        "ref_altitude": 40,
+        "contact_email": "p.j.basford@soton.ac.uk",
+        "description": "New GW 1",
+        "forward_crc_valid": true,
+        "forward_crc_error": false,
+        "forward_crc_disabled": true
+    }
+}
