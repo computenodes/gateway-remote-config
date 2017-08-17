@@ -1,0 +1,16 @@
+{
+    "gateway_conf": {
+        "gateway_ID": "B827EBFFFE71AB02",
+        "servers": [{
+            "server_address": "router.eu.thethings.network",
+            "serv_port_up": 1700,
+            "serv_port_down": 1700,
+            "serv_enabled": true
+        }],
+        "ref_latitude": 50.925,
+        "ref_longitude": -1.399,
+        "ref_altitude": 60,
+        "contact_email": "sjj698@zepler.org",
+        "description": "SOB"
+    }
+}
