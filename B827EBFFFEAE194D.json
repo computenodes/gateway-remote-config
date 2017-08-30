@@ -6,7 +6,15 @@
             "serv_port_up": 1700,
             "serv_port_down": 1700,
             "serv_enabled": true
-        }],
+        },
+        {
+            "server_address": "srv01816.soton.ac.uk",
+            "serv_port_up": 1700,
+            "serv_port_down": 1700,
+            "serv_enabled": true
+        }
+
+        ],
         "ref_latitude": 50.93682181,
         "ref_longitude": -1.40607252,
         "ref_altitude": 40,
