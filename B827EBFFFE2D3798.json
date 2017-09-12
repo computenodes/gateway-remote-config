@@ -13,7 +13,14 @@
             "serv_port_up": 1700,
             "serv_port_down": 1700,
             "serv_enabled": true
+        },
+        {
+            "server_address": "lorawan.computenodes.net",
+            "serv_port_up": 1700,
+            "serv_port_down": 1700,
+            "serv_enabled": true
         }
+
     ],
     "ref_latitude": 50.9354,
     "ref_longitude": -1.3939,
