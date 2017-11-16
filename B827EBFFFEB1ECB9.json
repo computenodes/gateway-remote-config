@@ -9,7 +9,7 @@
             "serv_enabled": true
         }
     ],
-    "gps_tty_path": "/dev/ttyUSB0",
+    "gps_tty_path": "/dev/serial0",
     "contact_email": "p.j.basford@soton.ac.uk",
     "description": "GPS-test-node",
     "fake_gps": false,
