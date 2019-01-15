@@ -1,27 +1,26 @@
 {
-    "gateway_conf": {
-        "gateway_ID": "B827EBFFFE6312DB",
-        "servers": [{
-            "server_address": "router.eu.thethings.network",
-            "serv_port_up": 1700,
-            "serv_port_down": 1700,
-            "serv_enabled": true
-        },
-        {
-            "server_address": "srv01816.soton.ac.uk",
-            "serv_port_up": 1700,
-            "serv_port_down": 1700,
-            "serv_enabled": true
-        }
-
-        ],
-        "ref_latitude": 50.93682181,
-        "ref_longitude": -1.40607252,
-        "ref_altitude": 40,
-        "contact_email": "p.j.basford@soton.ac.uk",
-        "description": "New GW 1",
-        "forward_crc_valid": true,
-        "forward_crc_error": false,
-        "forward_crc_disabled": true
-    }
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE6312DB",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "lorawan.computenodes.net",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "gps_tty_path": "/dev/serial0",
+    "fake_gps": false,
+    "contact_email": "p.j.basford@soton.ac.uk",
+    "description": "EMF 1",
+    "forward_crc_valid": true,
+    "forward_crc_error": false,
+    "forward_crc_disabled": true
+  }
 }
