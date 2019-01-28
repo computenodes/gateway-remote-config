@@ -27,7 +27,8 @@
     "ref_altitude": 60,
     "contact_email": "sjj698@zepler.org",
     "description": "Lanchester V3",
-    "fake_gps": true,
+    "fake_gps": false,
+    "gps_tty_path": "/dev/gps0",
     "forward_crc_valid": true,
     "forward_crc_error": false,
     "forward_crc_disabled": true
